@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="2894" started-at="2021-03-02T23:18:23 CST" finished-at="2021-03-02T23:18:26 CST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="2894" started-at="2021-03-02T23:18:23 CST" finished-at="2021-03-02T23:18:26 CST">
+      <class name="testCases.TC002_POST">
+        <test-method status="PASS" signature="creatAProduct()[pri:0, instance:testCases.TC002_POST@15d0c81b]" name="creatAProduct" duration-ms="2860" started-at="2021-03-02T23:18:23 CST" finished-at="2021-03-02T23:18:26 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- creatAProduct -->
+      </class> <!-- testCases.TC002_POST -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
